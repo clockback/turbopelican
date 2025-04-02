@@ -1,3 +1,7 @@
+> ⚠️ **_WARNING:_** This project is now hosted at
+https://github.com/turbopelican/turbopelican. This fork will be deleted at the
+time of the next release.
+
 <div align="center"><img width="400" alt="turbopelican logo" src="https://raw.githubusercontent.com/clockback/turbopelican/refs/heads/main/assets/logo.svg"/></div>
 
 # turbopelican
